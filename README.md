@@ -12,3 +12,7 @@ Proyecto de consola en C# que demuestra herencia, polimorfismo y sobrescritura d
 - Polimorfismo: se usa List<Vehiculo> y al recorrerla se ejecutan los métodos sobrescritos según el tipo real.
 - Sobrescritura: MostrarInformacion() y Encender() están implementados con override en cada subclase.
 - Ejecución en consola: Program.cs crea objetos, los agrega a la lista y muestra la salida en consola.
+
+
+## Resultado esperado
+<img width="604" height="644" alt="Imagen de resultado de codigo del parcial 1 de programacion " src="https://github.com/user-attachments/assets/e24cd211-525d-4b3b-8f78-b2613405b863" />
